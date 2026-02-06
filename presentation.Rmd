@@ -11,6 +11,12 @@ output: html_document
 
 <div class="row" style="text-align: justify; font-size:15px;  text-justify: inter-word; padding-top: 20px;padding-left: 20px;padding-right: 20px">
 
+Aguirre-Muñoz, Z., Liu, C., Casper, R., L, Shan. (2025) Enhancing College Text Comprehension Through Brief Metalinguistic Training. At TESOL International Convention & Expo. (TESOL). Long Beach, CA
+
+Aguirre-Muñoz, Z., Liu, C., Casper, R., L, Shan. (2025). [Enhancing College Text Comprehension Through Brief Metalinguistic Training](pdfs/AAAL_SFLposter_zam.pdf). Poster at American Association for Applied Linguistics (AAAL). Denver, CO
+
+Aguirre-Muñoz, Z., Liu, C., Casper, R. (2024). [Fostering Biliteracy Skills and Critical Language Awareness: An Iterative Professional Development Journey for DLL Educators](pdfs/NPD_poster.pdf). Poster at Office of English Language Acquisition (OELA) NPD Project Director’s Meeting. San Diego, CA
+
 Liu, C., Ryskin, R., Aguirre-Muñoz, Z. (2023). [Effect of context and proficiency on processing difficulty during L2 reading](pdfs/camp_poster_0109.pdf). At CAlifornia Meeting on Psycholinguistics (CAMP[6]).Stanford,CA
 
-Aguirre-Muñoz, Z., Liu, C., Casper, R., L, Shan. (2025) Enhancing College Text Comprehension Through Brief Metalinguistic Training. At TESOL International Convention & Expo. (TESOL). Long Beach, CA
+

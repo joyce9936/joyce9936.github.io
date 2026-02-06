@@ -24,7 +24,7 @@ library(icons)
 
 `cliu132@ucmerced.edu`
 
-[`r icon_style(academicons("cv"), scale = 2, fill = "#2c3e50")`](pdfs/CV_ChenLiu.pdf)
+[`r icon_style(academicons("cv"), scale = 2, fill = "#2c3e50")`](pdfs/CV_260205.pdf)
 [`r icon_style(fontawesome("github"), scale = 2, fill = "#2c3e50")`](https://github.com/joyce9936)
 </div>
 
@@ -33,8 +33,8 @@ library(icons)
 
 ### Academic bio
 
-I earned my Master's degree in the [Cognitive & Information Sciences](https://cogsci.ucmerced.edu) program at UC Merced, where I contributed to research in Dr. Zenaida Aguirre-Muñoz's [Language,Learning, and Teaching Lab](https://www.languagelearningandteachinglab.org/) and Dr. Rachel Ryskin's [Language, Interaction, & Cognition (LInC) lab](https://linclab0.github.io). Currently, I serve as the lab manager in Dr. Zenaida's lab, continuing my collaboration with both professors. 
+I earned my Master's degree in the [Cognitive & Information Sciences](https://cogsci.ucmerced.edu) program at UC Merced, where I contributed to research in Dr. Zenaida Aguirre-Muñoz's [Language,Learning, and Teaching Lab](https://www.languagelearningandteachinglab.org/). I am currently a PhD student in the same program.
 
-My research interest focuses on how digital technologies can facilitate language learning, with a particular emphasis on reading education. I'm interested in exploring how innovative tools such as eBooks, virtual and augmented reality (VR/AR), and AI-powered reading assistants can be effectively designed and integrated into classroom settings to enhance language acquisition and reading comprehension, especially in bilingual contexts.
+My research interests focus on how digital technologies can support language learning, with particular attention to reading comprehension, attentional processes, and metacognitive monitoring during reading. I am especially interested in how innovative tools, such as AI-powered reading assistants, can be designed and integrated into classroom settings to support readers’ regulation of attention, comprehension strategies, and self-monitoring. My work places a strong emphasis on bilingual contexts, examining how technology-mediated support can enhance language acquisition and reading comprehension for multilingual learners.
 
 </div>
