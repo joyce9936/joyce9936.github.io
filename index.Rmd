@@ -26,6 +26,7 @@ library(icons)
 
 [`r icon_style(academicons("cv"), scale = 2, fill = "#2c3e50")`](pdfs/CV_260205.pdf)
 [`r icon_style(fontawesome("github"), scale = 2, fill = "#2c3e50")`](https://github.com/joyce9936)
+[`r icon_style(academicons("google-scholar"), scale = 2, fill = "#2c3e50")`](https://scholar.google.com/citations?user=FuF_yX4AAAAJ&hl=en&oi=sra) 
 </div>
 
 <div class="row" style="text-align: justify; text-justify: inter-word;  padding-top: 2px;padding-right: 20px;padding-left: 20px">
