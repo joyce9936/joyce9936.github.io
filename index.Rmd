@@ -14,7 +14,7 @@ img {
 
 <div class="row" style="text-align: center; padding-top: 50px; padding-right: 20px;padding-left: 20px">
 
-<img src="images/webphoto.jpg" alt="photo" width="200" height="200" style="float:center">
+<img src="images/webphoto2026.jpg" alt="photo" width="200" height="200" style="float:center">
 
 ```{r, include=FALSE, echo = F}
 library(icons)
